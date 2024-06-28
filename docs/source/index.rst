@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+ZOWIN | ZO WIN | CỔNG GAME BÀI ĐỔI THƯỞNG HÀNG ĐẦU 2024 - zowin8.com
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Zowin <https://zowin8.com/>`_ là một cổng game bài đổi thưởng hàng đầu năm 2024, nổi tiếng với tính uy tín, an toàn và bảo mật cao. Tại Zowin, bạn được trải nghiệm nhiều trò chơi đa dạng như: tiến lên, sâm lốc, poker... với đồ họa đẹp mắt và cơ hội giành được những phần thưởng hấp dẫn. Với sứ mệnh đem lại trải nghiệm giải trí tuyệt vời nhất cho người chơi, Zowin cam kết mang đến cho bạn những giây phút thư giãn đầy hấp dẫn.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ:
 
-.. note::
+Địa chỉ: 999 Trần Hưng Đạo, Đống Đa, Thành phố Qui Nhơn, Bình Định
 
-   This project is under active development.
+Phone: 0328708356
 
-Contents
---------
+Email: zowin8@gmail.com
 
-.. toctree::
+Website: https://zowin8.com/
 
-   usage
-   api
+#zowin #zowin8 #zowin8com #nhacaizowin8
+
+Map: https://maps.app.goo.gl/Lc1dcFEDQ2VJtuMeA
